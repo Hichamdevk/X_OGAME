@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(158, 161, 212);
+}
+
+.game {
+    width: 350px;
+    font-family: system-ui;
+    text-align: center;
+    color: white;
+    margin: auto;
+    align-items: center;
+    font-weight: 500;
+    margin-top: 10px;
+    
+}
+
+#title {
+    background-color: #f25;
+    padding: 10px 0;
+    margin: 10px 0;
+}
+
+span {
+    color: #fa0;
+}
+.s {
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+.squaure{
+    width: 80px;
+    height: 80px;
+    background-color: #f27;
+    float: left;
+    margin: 2px;
+    font-size: 50px;
+}
+
+.squaure:hover {
+    background-color: black;
+    cursor: pointer;
+}
